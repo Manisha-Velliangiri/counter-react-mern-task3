@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-counter-react-mern-task3/static/css/main.e14949f9.css",
+    "main.js": "/word-counter-react-mern-task3/static/js/main.a2800233.js",
+    "index.html": "/word-counter-react-mern-task3/index.html",
+    "main.e14949f9.css.map": "/word-counter-react-mern-task3/static/css/main.e14949f9.css.map",
+    "main.a2800233.js.map": "/word-counter-react-mern-task3/static/js/main.a2800233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e14949f9.css",
+    "static/js/main.a2800233.js"
+  ]
+}
